@@ -1,4 +1,4 @@
-ahora este es el titulo de la rama master, pero con unas letras extra en el repositorio remoto en GitHub
+haora tenemos un tirulo en la rama segundera
 
 esta es mi primira historia, como la ven
 
@@ -6,8 +6,12 @@ esta es mi primira historia, como la ven
 
 que paso con mis parrafos 
 
+estamos agregando  mas texto a la cabezera
+1 segundera
+
 main 1
 
 main 2
 
 main 3
+1 segundera
